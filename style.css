@@ -292,8 +292,21 @@
     margin-top: 5px;
   }
 
-  @media only screen and (max-width: 673px){
+  /*@media only screen and (max-width: 673px){
     .main-content{
       grid-template-columns: repeat(1, 1fr);
     }
-  }
+  }*/
+@media screen and (max-width: 673px)  {
+    .main-content{
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: 70% 43%;
+    }
+    .left-section{
+        grid-row: 1/span 1;
+    }
+    .right-section{
+        grid-column: 1/span 1;
+        grid-row: 2/span 1;
+    }
+}
