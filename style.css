@@ -250,48 +250,13 @@
     padding-right: 3rem;
   }
 
-  .right-title h1{
+  .right-title{
     text-transform: uppercase;
     font-size: 1.2rem;
     font-weight: 700;
     padding: 0.5rem;
     letter-spacing: 1px;
   }
-
-  .right-title p {
-    margin-top: 20px;
-  }
-
-  .right-title{
-    margin-top: 40px;
-  }
-  .right-title h4{
-    margin-top: 10px;
-  }
-  .right-title p{
-    margin-top: 5px;
-  }
-
-  .right-title{
-    margin-top: 40px;
-  }
-  .right-title h4{
-    margin-top: 10px;
-  }
-  .right-title p{
-    margin-top: 5px;
-  }
-
-  .right-title{
-    margin-top: 40px;
-  }
-  .proj-sect h4{
-    margin-top: 10px;
-  }
-  .right-title p{
-    margin-top: 5px;
-  }
-
   /*@media only screen and (max-width: 673px){
     .main-content{
       grid-template-columns: repeat(1, 1fr);
