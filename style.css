@@ -236,7 +236,9 @@
     width: 10%;
   }
 
-  .main-content .right-section {  
+  .main-content .right-section {
+    display:grid ;
+    grid-column:span 1 / span 2 ;
     position: relative;
     background: #fff;
     padding: 40px ;
