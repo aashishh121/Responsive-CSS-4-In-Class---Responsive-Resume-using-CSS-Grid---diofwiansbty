@@ -18,7 +18,7 @@
     max-width: 1000px;
     min-height: 1000px;
     display: grid ;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 300px 700px;
     grid-gap: 10px ;
     background-color: lightblue;
     padding: 10px;
