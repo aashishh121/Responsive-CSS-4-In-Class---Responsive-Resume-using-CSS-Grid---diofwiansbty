@@ -15,7 +15,6 @@
   .main-content{
     position: relative;
     width: 90% ;
-    max-width: 1000px;
     min-height: 1000px;
     display: grid ;
     grid-template-columns: 300px 700px;
