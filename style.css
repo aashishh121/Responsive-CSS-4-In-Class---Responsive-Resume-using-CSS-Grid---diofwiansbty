@@ -142,13 +142,13 @@
     font-size: 0.9em;
   }
 
-  .skill{
+  .skill-div{
     padding: 10px;
   }
 
   .skills {
     margin-top: 10px;
-    font-size: 0.75;
+    font-size: 0.75rem;
     text-align: center;
     text-transform: uppercase;
     padding-top: 1rem;
