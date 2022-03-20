@@ -292,7 +292,7 @@
     margin-top: 5px;
   }
 
-  @media (max-width: 673px){
+  @media only screen and (max-width: 673px){
     .main-content{
       grid-template-columns: repeat(1, 1fr);
     }
