@@ -293,7 +293,7 @@
     margin-top: 5px;
   }
 
-  @media (max-width: 672px){
+  @media (max-width: 673px){
     .main-content{
       margin: 10px;
       grid-template-columns: repeat(1, 1fr);
